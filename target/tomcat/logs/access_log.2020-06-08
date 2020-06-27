@@ -1,0 +1,17 @@
+0:0:0:0:0:0:0:1 - - [08/Jun/2020:09:16:24 +0530] "GET /list-todos HTTP/1.1" 200 1988 http-bio-8080-exec-1 1328
+0:0:0:0:0:0:0:1 - - [08/Jun/2020:09:17:16 +0530] "GET /add-todo HTTP/1.1" 200 1238 http-bio-8080-exec-5 307
+0:0:0:0:0:0:0:1 - - [08/Jun/2020:09:17:18 +0530] "POST /add-todo HTTP/1.1" 200 1652 http-bio-8080-exec-6 201
+0:0:0:0:0:0:0:1 - - [08/Jun/2020:09:20:26 +0530] "POST /add-todo HTTP/1.1" 200 1761 http-bio-8080-exec-10 841
+0:0:0:0:0:0:0:1 - - [08/Jun/2020:09:20:29 +0530] "GET /webjars/bootstrap-datepicker/1.0.1/js/bootstrap-datepicker.js HTTP/1.1" 404 949 http-bio-8080-exec-10 15
+0:0:0:0:0:0:0:1 - - [08/Jun/2020:09:20:31 +0530] "GET /webjars/bootstrap-datepicker/1.0.1/js/bootstrap-datepicker.js HTTP/1.1" 404 949 http-bio-8080-exec-2 3
+0:0:0:0:0:0:0:1 - - [08/Jun/2020:09:23:46 +0530] "POST /add-todo HTTP/1.1" 200 1761 http-bio-8080-exec-2 424
+0:0:0:0:0:0:0:1 - - [08/Jun/2020:09:23:46 +0530] "GET /webjars/bootstrap-datepicker/1.0.1/js/bootstrap-datepicker.js HTTP/1.1" 200 32051 http-bio-8080-exec-3 25
+0:0:0:0:0:0:0:1 - - [08/Jun/2020:09:23:48 +0530] "GET /add-todo HTTP/1.1" 200 1435 http-bio-8080-exec-4 14
+0:0:0:0:0:0:0:1 - - [08/Jun/2020:09:23:49 +0530] "POST /add-todo HTTP/1.1" 302 - http-bio-8080-exec-5 16
+0:0:0:0:0:0:0:1 - - [08/Jun/2020:09:23:49 +0530] "GET /list-todos HTTP/1.1" 200 2259 http-bio-8080-exec-6 124
+0:0:0:0:0:0:0:1 - - [08/Jun/2020:09:23:54 +0530] "GET /add-todo HTTP/1.1" 200 1435 http-bio-8080-exec-9 14
+0:0:0:0:0:0:0:1 - - [08/Jun/2020:09:24:00 +0530] "POST /add-todo HTTP/1.1" 302 - http-bio-8080-exec-10 15
+0:0:0:0:0:0:0:1 - - [08/Jun/2020:09:24:00 +0530] "GET /list-todos HTTP/1.1" 200 2530 http-bio-8080-exec-10 7
+0:0:0:0:0:0:0:1 - - [08/Jun/2020:09:24:03 +0530] "GET /add-todo HTTP/1.1" 200 1435 http-bio-8080-exec-5 11
+0:0:0:0:0:0:0:1 - - [08/Jun/2020:09:24:05 +0530] "POST /add-todo HTTP/1.1" 302 - http-bio-8080-exec-6 12
+0:0:0:0:0:0:0:1 - - [08/Jun/2020:09:24:05 +0530] "GET /list-todos HTTP/1.1" 200 2801 http-bio-8080-exec-6 9
